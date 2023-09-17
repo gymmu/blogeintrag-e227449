@@ -9,3 +9,12 @@ body {
   background-color: rgb(218, 138, 138);
   font-family: sans-serif;
 }
+
+important {
+  border: 5px solid orange;
+}
+
+
+a:hover {
+  font-size: 1.4rem;
+}
