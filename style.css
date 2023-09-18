@@ -10,8 +10,9 @@ body {
   font-family: sans-serif;
 }
 
-important {
-  border: 5px solid orange;
+.important {
+  border: 5px solid rgb(128, 49, 49);
+  text-align: center;
 }
 
 
