@@ -34,7 +34,7 @@ a:hover {
 /* Setze den Container mit dem Inhalt vor den Hintergrund, damit können sich
    Elemente überlappen. */
 .container-with-bg > div.content {
-  color: rgb(247, 239, 239);
+  color: rgb(242, 242, 242);
   z-index: 1;
 }
 
