@@ -86,3 +86,13 @@ a:hover {
 a:visited {
 color: rgb(105, 4, 4);
 }
+
+body {margin-bottom: 100px;
+}
+
+body {margin-left: 20px;
+}
+
+body {margin-right: 20px;
+}
+
