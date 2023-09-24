@@ -73,3 +73,16 @@ a:hover {
 .text-next-to-img > img {
   width: 100%;
 }
+
+
+.spread {
+  transition: all 1s ease-in-out;
+}
+.spread:hover {
+  letter-spacing: 1rem;
+}
+
+
+a:visited {
+color: rgb(105, 4, 4);
+}
